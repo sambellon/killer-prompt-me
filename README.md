@@ -9,7 +9,7 @@ Need a refresh on GitHub? Review the Coding Train series [GitHub for Poets](http
 
 We invite anyone in the GW community to create open source stickers for our GW OSCON that will be held on March 24-25, 2025. The GW OSPO will select a few of the sticker designs that meet all the requirements listed below and pay to print the stickers and make them available for all attendees of the conference.
 
-Design requirements:
+[Design requirements:](https://github.com/gw-ospo/gw-open-source-stickers/issues/5)
 
 - Please adhere to our code of conduct
 - Please follow our contributors guide for instructions about how to submit your designs
