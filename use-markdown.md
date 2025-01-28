@@ -1,7 +1,7 @@
 
 ![wode-eyed](https://github.com/user-attachments/assets/9caaefef-84fe-492a-9ae7-e2fb2f29400a)
 
-# create Mardown files for your images pages!
+# create markdown files for your images pages!
 
 If you want to get creative with markdown, refer tothis [**style guide**](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
