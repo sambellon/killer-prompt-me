@@ -5,9 +5,11 @@ Make a simple drawing of a golden retriever running through a door with a sign i
 Make a simple drawing of a golden retriever with a sign in its mouth. 
 ![SimplePupSign](https://github.com/user-attachments/assets/e282186e-ecd5-4e0a-8415-ae0944be0fe5)
 ![SimplePup](https://github.com/user-attachments/assets/61a05528-cf1d-468b-a983-ca40461485ed)
-![RainbwDogOutline](https://github.com/user-attachments/assets/7b2ef646-e7c1-4db8-ba6d-4c7fe05d06f6)
-![SimplePupPurpBlu](https://github.com/user-attachments/assets/434da0f5-0c06-426a-b8e0-cef4454c26bb)
-![SimplePupPnk](https://github.com/user-attachments/assets/6886f585-99cd-4b90-90b9-4106d6ef4375)
+![RnbwFREEpup](https://github.com/user-attachments/assets/cebeb2eb-aa95-4f47-be04-b7c3aa41fa11)
+![FREEpupPnk](https://github.com/user-attachments/assets/07c6c39b-b5be-4b30-94f4-a380a6f3c552)
+![FREEpupWtrmln](https://github.com/user-attachments/assets/5ce6206c-46b5-49e6-8f83-63752b4ed0ca)
+![FREEpupBlu](https://github.com/user-attachments/assets/c48c996b-5afe-4f85-a1fe-e252c0b24f93)
+
 
 Make a drawing of a circut board mushroom, simplify it.
 ![Designer (1)](https://github.com/user-attachments/assets/96a5ca40-6ce9-4e32-a241-5a18573dd914)
